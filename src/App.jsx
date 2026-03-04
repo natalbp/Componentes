@@ -1,7 +1,7 @@
 import React from 'react'
 import Saludo from './componentes/Saludo'
 import BotonLike from './componentes/BotonLike';
-import TarjetaUsuario from './TarjetaUsuario';
+import TarjetaUsuario from './componentes/TarjetaUsuario';
 import PostConEfecto from './componentes/PostConEfecto';
 import MatematicasMagicas from './componentes/MatematicasMagicas';
 
